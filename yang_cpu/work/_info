@@ -1,0 +1,454 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.4/examples
+T_opt
+!s110 1681620248
+V4lg5m5YjJ1E[ZM?1=FL>L0
+04 8 4 work inst_rom fast 0
+=1-002b67d39bab-643b7d17-357-2ee8
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+Z2 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1681729873
+V=QFH>bo7S`=cLj6RVz[9F3
+Z3 04 12 4 work mips_sopc_tb fast 0
+=1-002b67d39bab-643d2950-1a2-3ec8
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+R1
+n@_opt1
+R2
+T_opt2
+!s110 1681704292
+Vi654;J_`9fb91Q:AFYH7Z2
+R3
+=1-002b67d39bab-643cc563-2ab-4130
+R4
+R1
+n@_opt2
+R2
+R0
+vcontrol
+Z5 !s110 1681729862
+!i10b 1
+!s100 UTOSFR<Y47M:N3ZiHI1Dn2
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXL[1XLo0>H[fOOY`NEETW3
+Z7 dE:/onedrive/HomeWork/cpu design/CPU/yang_cpu
+w1681629455
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/control.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/control.v
+!i122 2668
+Z8 L0 3 19
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z11 !s108 1681729862.000000
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/control.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vdata_ram
+Z13 !s110 1681702383
+!i10b 1
+!s100 nO7bJz]o11]@9LO1ZVgCz1
+R6
+Iio`EAT5hmO<8S9N^7RcNZ0
+R7
+w1681615160
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/data_ram.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/data_ram.v
+!i122 2239
+L0 3 50
+R9
+R10
+r1
+!s85 0
+31
+Z14 !s108 1681702383.000000
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/data_ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/data_ram.v|
+!i113 0
+R12
+R1
+vdm
+!s110 1681729863
+!i10b 1
+!s100 P^Z=RWZTcDd@2<RVOj[XF0
+R6
+IUc9RD=@?fdK:WP3:PjU]c1
+R7
+w1681703061
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/dm.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/dm.v
+!i122 2671
+L0 4 50
+R9
+R10
+r1
+!s85 0
+31
+!s108 1681729863.000000
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/dm.v|
+!i113 0
+R12
+R1
+vex
+Z15 !s110 1681729861
+!i10b 1
+!s100 TW?O2LWQ928jS_d8IWzNk1
+R6
+Il_`EbcakZdlG5Y6;iWEEZ0
+R7
+w1681701103
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/ex.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/ex.v
+!i122 2661
+L0 3 166
+R9
+R10
+r1
+!s85 0
+31
+Z16 !s108 1681729861.000000
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/ex.v|
+!i113 0
+R12
+R1
+vex_mem
+R15
+!i10b 1
+!s100 CW_7DNC>6BS]7YO4ESV]U1
+R6
+I2H6jODiA2bbR1G`aQZIZK0
+R7
+w1681627593
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/ex_mem.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/ex_mem.v
+!i122 2662
+L0 3 51
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/ex_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/ex_mem.v|
+!i113 0
+R12
+R1
+vid
+R15
+!i10b 1
+!s100 Jejm069W8`onNlN_nbU7O1
+R6
+IMdjKkJ28X0V1V@e>QJ[m82
+R7
+w1681695583
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/id.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/id.v
+!i122 2659
+L0 2 507
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/id.v|
+!i113 0
+R12
+R1
+vid_ex
+R15
+!i10b 1
+!s100 8UJnVUL_2[aeCKQB38Rnc3
+R6
+I:Bzk9?lE2<VY[hW^cn0D00
+R7
+w1681627464
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/id_ex.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/id_ex.v
+!i122 2660
+L0 2 80
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/id_ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/id_ex.v|
+!i113 0
+R12
+R1
+vif_id
+!s110 1681729860
+!i10b 1
+!s100 N0]`nX=IKQ<4L47IcNjV_2
+R6
+IjinNF4@X10OXI@1i_<T?l1
+R7
+w1681723102
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/if_id.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/if_id.v
+!i122 2657
+L0 2 27
+R9
+R10
+r1
+!s85 0
+31
+Z17 !s108 1681729860.000000
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/if_id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/if_id.v|
+!i113 0
+R12
+R1
+vim
+R5
+!i10b 1
+!s100 2_OelU@<E6EQXhhdVdgE?1
+R6
+Ic?eoAfLPP2]KEhNzH[Hm42
+R7
+w1681729854
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/im.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/im.v
+!i122 2670
+L0 3 22
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/im.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/im.v|
+!i113 0
+R12
+R1
+vinst_rom
+R13
+!i10b 1
+!s100 9cnJ<GZFgZ10]jK2oUUmE1
+R6
+IXCMbLzoSB8L8e>mGVP9Od0
+R7
+w1681696737
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/inst_rom.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/inst_rom.v
+!i122 2236
+R8
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/inst_rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/inst_rom.v|
+!i113 0
+R12
+R1
+vmem
+R15
+!i10b 1
+!s100 dHJzd2IPl4I=F0`:WZKUz2
+R6
+IZ7mKk`BPb:gR:4H?I73:O3
+R7
+w1681546313
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mem.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mem.v
+!i122 2663
+L0 3 73
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mem.v|
+!i113 0
+R12
+R1
+vmem_wb
+R5
+!i10b 1
+!s100 `FV3:<>oeiOE];WTBK91U0
+R6
+IIc<7_lE[Q;zV0O7PQ;DB80
+R7
+w1681627706
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mem_wb.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mem_wb.v
+!i122 2664
+L0 3 31
+R9
+R10
+r1
+!s85 0
+31
+R16
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mem_wb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mem_wb.v|
+!i113 0
+R12
+R1
+vmips
+R5
+!i10b 1
+!s100 ^9nPm9WRZJi@_WB`LnmOA1
+R6
+I^BC`8g?Eoo=Wg8[gN93V@3
+R7
+w1681702208
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips.v
+!i122 2665
+L0 2 252
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips.v|
+!i113 0
+R12
+R1
+vmips_sopc
+R5
+!i10b 1
+!s100 D7EmzmhXl2`8j9e6lBdI83
+R6
+IK<@UM008ThmhfC]M2ghl]0
+R7
+w1681703040
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips_sopc.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips_sopc.v
+!i122 2666
+L0 3 45
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips_sopc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips_sopc.v|
+!i113 0
+R12
+R1
+vmips_sopc_tb
+R5
+!i10b 1
+!s100 z>:Kh7`3nLn<^d]5kn<2<3
+R6
+Ilb]2_MUc01F`k6CcAfB7]2
+R7
+w1680855838
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips_sopc_tb.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips_sopc_tb.v
+!i122 2667
+L0 4 21
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips_sopc_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/mips_sopc_tb.v|
+!i113 0
+R12
+R1
+vpc
+R5
+!i10b 1
+!s100 5FG`BgNJb5[i4E8:>V<Eh3
+R6
+I70=DNoF2`JGh1B6MMHOm83
+R7
+w1681724736
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/pc.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/pc.v
+!i122 2669
+L0 3 36
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/pc.v|
+!i113 0
+R12
+R1
+vpc_reg
+!s110 1681701107
+!i10b 1
+!s100 BO0Y30jPBej:F17oAl_`<1
+R6
+ISNe>6O`lk_LQ9VzO=zdgV0
+R7
+w1681626974
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/pc_reg.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/pc_reg.v
+!i122 2181
+L0 2 36
+R9
+R10
+r1
+!s85 0
+31
+!s108 1681701107.000000
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/pc_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/pc_reg.v|
+!i113 0
+R12
+R1
+vregfile
+R15
+!i10b 1
+!s100 4]7H7GncMoHKfGOQaf4W<1
+R6
+I=ONeSJ?OIg[>TEe?`KMaO2
+R7
+w1681704621
+8E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/regfile.v
+FE:/onedrive/HomeWork/cpu design/CPU/yang_cpu/regfile.v
+!i122 2658
+L0 2 75
+R9
+R10
+r1
+!s85 0
+31
+R17
+!s107 defines.v|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/onedrive/HomeWork/cpu design/CPU/yang_cpu/regfile.v|
+!i113 0
+R12
+R1
